@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "QuranTajwidAPICollection",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
