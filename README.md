@@ -1,7 +1,7 @@
 # Quran Tajwid API (Test)
 
-> ![WARNING]
-> Do not use for Production app. The API, Domains etc. might be changed without prior notice
+> [!WARNING]
+> Do not use for Production app. The API, domains etc. might be changed without prior notice
 
 Server app that I quickly scaffolded using [Express Application Generator](https://expressjs.com/en/starter/generator.html). If we want to get serius building API, perhaps need to use better framework ie NestJS etc.
 
