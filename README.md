@@ -1,3 +1,5 @@
+# Archived: Go to https://github.com/My-Quran-Tajwid/baca
+____
 # Quran Tajwid API (Test)
 
 > [!WARNING]
